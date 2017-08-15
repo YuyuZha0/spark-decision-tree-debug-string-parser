@@ -1,4 +1,3 @@
-package com.ifeng.dmp.ctrp.ml;
 
 import javax.annotation.concurrent.Immutable;
 import java.io.Serializable;
