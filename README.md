@@ -1,8 +1,11 @@
 # spark-decision-tree-debug-string-parser
 a parser of spark decision tree on random forest or gradient boosted trees
 
-#### example:
- String s = "If (feature 9 <= 0.0125)\n" +
+#### example: 
+
+
+
+      String s = "If (feature 9 <= 0.0125)\n" +
                 "     If (feature 10 <= 0.0114)\n" +
                 "      If (feature 12 <= 0.0075)\n" +
                 "       If (feature 0 <= 0.0065)\n" +
